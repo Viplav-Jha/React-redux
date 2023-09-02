@@ -1,0 +1,18 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Introduction to React",
+        "description": "Learn the basics of React.",
+        "enquiries": []
+      },
+      {
+        "id": 2,
+        "title": "Intermediate React",
+        "description": "Dive deeper into React concepts.",
+        "enquiries": []
+      }
+    ],
+    "enquiries": []
+  }
+  
